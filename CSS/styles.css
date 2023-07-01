@@ -392,6 +392,7 @@ h4 {
 	gap: 10px;
 	margin: 0;
 	margin-inline: 32px;
+	cursor: pointer;
 }
 
 .social-media {
@@ -434,6 +435,7 @@ h4 {
 .icons:focus {
 	border-color: var(--brand-color);
 	fill: var(--brand-color);
+	cursor: pointer;
 }
 
 .join-us {
@@ -477,4 +479,5 @@ h4 {
 .icons-design:focus {
 	background-color: var(--brand-color);
 	fill: #fff;
+	cursor: pointer;
 }
