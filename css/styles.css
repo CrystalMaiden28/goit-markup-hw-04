@@ -483,3 +483,8 @@ ul {
 	display: flex;
 	gap: 16px;
 }
+
+.footer-icons-cursor:hover,
+.footer-icons-cursor:focus {
+	background-color: #31d0aa;
+}
