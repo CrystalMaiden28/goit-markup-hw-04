@@ -461,17 +461,25 @@ ul {
 	width: 264px;
 }
 
-.text-social-media-footer {
-	font-size: 16px;
+.div-footer-social-media {
+	display: flex;
+	align-items: baseline;
+}
+
+.div-logo-paragraph {
+	margin-right: 120px;
+}
+
+.text-media-footer {
 	font-weight: 500;
-	color: #fff;
+	font-size: 16px;
 	line-height: 1.5;
 	letter-spacing: 0.02em;
+	color: #FFFFFF;
 	margin-bottom: 16px;
 }
 
-.list-social-media-footer {
+.list-media-footer {
 	display: flex;
 	gap: 16px;
 }
-
