@@ -397,7 +397,7 @@ ul {
 	position: absolute;
 }
 
-.portfolio-item .hidden-text {
+.portfolio-item:hover .hidden-text {
 	transform: translateY(0%);
 }
 
